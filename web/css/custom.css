@@ -1,0 +1,28 @@
+.footer-big-contacts {
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.footer-big-contacts span {
+    display: block;
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #888;
+    letter-spacing: 2px;
+}
+
+.dark .footer-big-contacts {
+    color: rgba(255,255,255,0.8);
+}
+
+.table.table-bordered {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table.table-bordered.table-narrow td {
+    padding: 4px;
+}
